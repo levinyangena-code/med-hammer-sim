@@ -3,7 +3,7 @@
 > **SIMULATION ONLY.** This repository is a defensive red-team proof of concept. It applies
 > bit flips to **in-memory PyTorch tensors**. It contains **no** Rowhammer or other hardware
 > exploit code, **no** hardware or physical-memory access, **no** malware, **no** real patient
-data, and makes **no** network calls.
+> data, and makes **no** network calls.
 
 ## What it does
 
